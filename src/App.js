@@ -59,7 +59,9 @@ function App() {
       </Toolbar>
     </AppBar>
     <Container maxWidth="lg">
-      
+      <Typography variant="h1" align="center">
+            The Official Kloudless Guide To API Integrations
+      </Typography> 
     </Container>
 
     </div>
