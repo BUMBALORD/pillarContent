@@ -165,10 +165,10 @@ function App() {
       </Typography>
       <CardMedia
         component="img"
-        alt="working"
+        alt="product launch"
         height="250"
         src={work}
-        title="working"
+        title="product launch"
         className={classes.spacing}
       />
       <Typography align="center" variant="h5" className={classes.subHeader}>
@@ -203,10 +203,10 @@ function App() {
     <Divider variant="middle" />
     <CardMedia
       component="img"
-      alt="light"
+      alt="integration strategy"
       height="450"
       src={light}
-      title="light"
+      title="integration strategy"
       className={classes.spacing}
     />
     <Container maxWidth="md" className={classes.spacing}>
@@ -218,10 +218,10 @@ function App() {
       </Typography>
       <CardMedia
         component="img"
-        alt="feet"
+        alt="building software"
         height="250"
         src={feet}
-        title="feet"
+        title="building software"
         className={classes.spacing}
       />
       <Typography align="center" variant="h5" className={classes.subHeader}>
@@ -236,10 +236,10 @@ function App() {
       </Typography>
       <CardMedia
         component="img"
-        alt="build"
+        alt="building integrations"
         height="250"
         src={build}
-        title="build"
+        title="building integrations"
         className={classes.spacing}
       />
       <Typography align="center" className={classes.regText}>
@@ -256,9 +256,9 @@ function App() {
       </Typography>
       <CardMedia
         component="img"
-        alt="teach"
+        alt="user story"
         src={teach}
-        title="teach"
+        title="user story"
         className={classes.spacing}
       />
       <Typography align="center" className={classes.regText}>
@@ -293,10 +293,10 @@ function App() {
       </Typography>
       <CardMedia
         component="img"
-        alt="change"
+        alt="build vs buy"
         height="250"
         src={change}
-        title="change"
+        title="build vs buy"
         className={classes.spacing}
       />
       <Typography align="center" className={classes.regText}>
@@ -332,10 +332,10 @@ function App() {
       </Typography>
       <CardMedia
         component="img"
-        alt="tools"
+        alt="data security"
         height="250"
         src={tools}
-        title="tools"
+        title="data security"
         className={classes.spacing}
       />
       <Typography align="center" className={classes.regText}>
@@ -386,10 +386,10 @@ function App() {
       </Typography>
       <CardMedia
         component="img"
-        alt="auth1"
+        alt="api authentication"
         height="250"
         src={auth1}
-        title="auth1"
+        title="api authentication"
         className={classes.spacing}
       />
       <Typography align="center" variant="h5" className={classes.subHeader}>
@@ -400,10 +400,10 @@ function App() {
       </Typography>
       <CardMedia
         component="img"
-        alt="auth2"
+        alt="api auth"
         height="300"
         src={auth2}
-        title="auth2"
+        title="api auth"
         className={classes.spacing}
       />
       <Typography variant="h5" align="center" className={classes.headerAlt}>
@@ -449,10 +449,10 @@ function App() {
       </Typography>
       <CardMedia
         component="img"
-        alt="events"
+        alt="api events"
         height="250"
         src={events}
-        title="events"
+        title="api events"
         className={classes.spacing}
       />
       <Typography align="center" variant="h5" className={classes.subHeader}>
@@ -476,9 +476,9 @@ function App() {
       </Typography>
       <CardMedia
         component="img"
-        alt="polling"
+        alt="event polling"
         src={polling}
-        title="polling"
+        title="event polling"
         width="350"
         height="250"
         className={classes.spacing}
@@ -511,10 +511,10 @@ function App() {
       </ Container>
       <CardMedia
       component="img"
-      alt="logs"
+      alt="api log"
       height="450"
       src={logs}
-      title="logs"
+      title="api log"
       className={classes.spacing}
     />
       <Container maxWidth="md" className={classes.spacing}>
@@ -527,10 +527,10 @@ function App() {
       </Typography>
       <CardMedia
         component="img"
-        alt="logging"
+        alt="api logging"
         height="250"
         src={logging}
-        title="logging"
+        title="api logging"
         className={classes.spacing}
       />
       <Typography align="center" variant="h5" className={classes.subHeader}>
